@@ -326,8 +326,8 @@ a.active {
 }
 
 .image-size {
-    height: 600px;
-    width: 600px;
+    height: auto;
+    width: auto;
 }
 
 @media screen and (max-width: 600px) {
@@ -352,8 +352,8 @@ a.active {
         padding-top: 20px;
     }
     .image-size {
-        height: 350px;
-        width: 345px;
+        height: auto;
+        width: auto;
     }   
 }
 
@@ -887,7 +887,7 @@ fieldset {
     }
     #home,
     .disply-table {
-        height: 900px;
+        height: 1200px;
         /*650px;*/
     } 
 
